@@ -3,7 +3,7 @@
 
 ### react ###
 
-*.client*
+/Users/richardchu/Documents/codingdojo/MERN/full_stack_MERN/my-project/client/
 
 .DS_*
 *.log
